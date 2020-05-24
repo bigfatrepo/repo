@@ -1,6 +1,4 @@
 # Index thing
 
-direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/hello.zip hello 0.1
-direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/fatfile fatfile 0.1
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/supercmd.zip supercmd 0.1
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/failure.zip failure 0.1
