@@ -2,3 +2,4 @@
 
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/supercmd.zip supercmd 0.2
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/zipinst.zip zipinst 0.1.1
+direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-utils.zip kac-utils 0.1
