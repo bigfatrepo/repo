@@ -5,10 +5,10 @@ direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-utils.z
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/zipinst.zip zipinst 0.1.1
 
 ## Libs
-direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-utils.zip ttyin 0.1.0
+direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/ttyin.zip ttyin 0.1.0
 
 ## Programs
-direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-utils.zip doc 0.1.0
+direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/doc.zip doc 0.1.0
 
 ## Test
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/supercmd.zip supercmd 0.2
