@@ -12,6 +12,7 @@ direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/ttyin.zip t
 
 ## Programs
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/doc.zip doc 0.1.001
+direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/wiki.zip wiki 0.1.000
 
 ## Test
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/test/supercmd.zip supercmd 0.2
