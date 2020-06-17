@@ -2,7 +2,7 @@
 
 ## System
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-boot.zip kac-boot 0.1.2
-direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-libs.zip kac-libs 0.1.1
+direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-libs.zip kac-libs 0.1.2
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/kac-utils.zip kac-utils 0.1
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/zipinst.zip zipinst 0.1.1
 direct https://raw.githubusercontent.com/bigfatrepo/repo/master/main/shell.zip shell 0.1.1
